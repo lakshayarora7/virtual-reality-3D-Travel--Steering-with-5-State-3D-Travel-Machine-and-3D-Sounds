@@ -1,10 +1,17 @@
 # virtual-reality-3D-Travel--Steering-with-5-State-3D-Travel-Machine-and-3D-Sounds
 
+![Alt text](screenshot1.png?raw=true "3D Virtual Environment")
+![Alt text](screenshot2.png?raw=true "3D Travel")
+
 Due to size restrictions on github, placed code at https://drive.google.com/drive/folders/1CjGLk1tl5Kcy6Odbuh10bLS9VH5L4OjW?usp=sharing. 
 
 Developd a 3D travel technique (Steering) with five meaningful interaction states. Used the Vive prefab’s 'Real World Simulator' to ensure that all five interaction states of 3D travel technique are properly functioning and can be used with the HTC Vive. The Vive prefab is part of 5UDE, a package developed by Professor Ryan McMahan at FIVE labs at UTD. Copyright information inside the zip file.
 
 Used the 5UDE's sound script to assign 5 unique and realistic 3D sounds withing the virtual environment. Sounds were imported from various sources on the internet. Used the Vive prefabs's 'Real World Simulator' to ensure that the sounds are realistic when using the steering travel technique to move about the virtual environment.
+
+Package Requirements:
+1. Steam VR (downloaded from Unity Asset Store)
+2. 5UDE: a package designed by Professor Ryan McMahan (University of Texas at Dallas), contains a real worl simulator along with HTC Vive inputs.
 
 To run the scene:
 1. Install Unity.
