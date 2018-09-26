@@ -1,7 +1,10 @@
 # virtual-reality-3D-Travel--Steering-with-5-State-3D-Travel-Machine-and-3D-Sounds
 
 ![Alt text](screenshot1.PNG?raw=true "3D Virtual Environment")
+
 ![Alt text](screenshot2.PNG?raw=true "3D Travel")
+
+2 seconds later:
 ![Alt text](screenshot3.PNG?raw=true "3D Travel 2")
 
 Due to size restrictions on github, placed code at https://drive.google.com/drive/folders/1CjGLk1tl5Kcy6Odbuh10bLS9VH5L4OjW?usp=sharing. 
