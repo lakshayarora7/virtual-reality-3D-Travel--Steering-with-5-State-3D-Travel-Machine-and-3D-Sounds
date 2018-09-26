@@ -59,7 +59,7 @@ S. No.	Sound Type  	             URL
 
 3D Travel 5-State Machine: 
 
-![Alt text](3_D_Travel_5_State_Machine.png?raw=true "3D Travel 5-State Machine")
+![Alt text](3D%20Travel%205%20State%20Machine.png?raw=true "3D Travel 5-State Machine")
 
  
 LEGEND (How to use it with HTC Vive)
